@@ -1,4 +1,4 @@
-# Bluethooth APP for TENS
+# Bluetooth APP for TENS
 ![image](https://user-images.githubusercontent.com/50388568/109662327-e5ca6900-7ba5-11eb-9605-0f8a03b99e85.png)
   
   BuleTooth APP是2019年开发的项目，项目的初衷是用于与同蓝牙串口进行通信交互，并根据通信数据内容进行不同的处理。APP开发的初期参考了不少开源项目，但是与自己的项目需求存在较大差距，因此有了这个项目的诞生。
