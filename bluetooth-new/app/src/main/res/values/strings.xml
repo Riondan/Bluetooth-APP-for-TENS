@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TENS</string>
+    <string name="scan">开始扫描</string>
+    <string name="device_visibility">搜索设备</string>
+    <string name="bluetoothON">打开蓝牙</string>
+    <string name="bluetoothOFF">关闭蓝牙</string>
+</resources>
